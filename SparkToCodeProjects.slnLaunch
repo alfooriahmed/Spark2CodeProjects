@@ -1,0 +1,31 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "Even_or_Odd\\Even_or_Odd.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "C#session1\\CsharpSession1.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "ConsoleApp1\\CsharpSession2.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "PersonalCard\\PersonalCard.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "Rectangle_Calculator\\Rectangle_Calculator.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "Voting_Eligibility\\Voting_Eligibility.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
