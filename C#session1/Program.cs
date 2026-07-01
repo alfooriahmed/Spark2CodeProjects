@@ -1,4 +1,5 @@
-﻿namespace C_session1
+﻿namespace CsharpSession1
+
 {
     internal class Program
     {
