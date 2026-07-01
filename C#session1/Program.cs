@@ -6,6 +6,9 @@
         {
             Console.WriteLine("Hello, World!");
             Console.WriteLine("Ahmed is a great programmer");
+            Console.WriteLine("Ahmed is a great programmer");
+            Console.WriteLine("Ahmed is a great programmer");
+
         }
     }
 }
