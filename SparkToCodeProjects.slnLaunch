@@ -25,6 +25,14 @@
       {
         "Path": "Voting_Eligibility\\Voting_Eligibility.csproj",
         "Action": "Start"
+      },
+      {
+        "Path": "Temperature_Converter\\Temperature_Converter.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "GradeLetterLookup\\GradeLetterLookup.csproj",
+        "Action": "StartWithoutDebugging"
       }
     ]
   }
