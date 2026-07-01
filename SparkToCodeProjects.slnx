@@ -1,6 +1,7 @@
 <Solution>
   <Project Path="C#session1/CsharpSession1.csproj" />
   <Project Path="ConsoleApp1/CsharpSession2.csproj" />
+  <Project Path="Even_or_Odd/Even_or_Odd.csproj" Id="5f643f1a-0968-4a2a-9501-40ef83eabdd7" />
   <Project Path="PersonalCard/PersonalCard.csproj" />
   <Project Path="Rectangle_Calculator/Rectangle_Calculator.csproj" Id="ea59db0b-3ba6-4011-bd08-79be60ebeba2" />
 </Solution>
