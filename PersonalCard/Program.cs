@@ -16,7 +16,7 @@ namespace PersonalCard
             Console.WriteLine("Name: " +name);
             Console.WriteLine("Age: " +age);
            Console.WriteLine("Haight: " +haight);
-            Console.WriteLine("Student: "+student);
+            Console.WriteLine("Student: "+studentt);
 
 
 
