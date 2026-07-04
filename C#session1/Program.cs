@@ -8,7 +8,7 @@
             Console.WriteLine("Hello, World!");
             Console.WriteLine("Ahmed is a great programmer");
             Console.WriteLine("Ahmed is a great programmer");
-            Console.WriteLine("Ahmed is a great programmer");
+            Console.WriteLine("Ahmed is wonderfull");
             int firstnum = 3;
             int secondnum = 6;
             int result = firstnum + secondnum;
