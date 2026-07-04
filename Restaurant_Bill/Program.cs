@@ -9,9 +9,11 @@
             //Console.WriteLine("Hello, your Total is: " + age);
 
             Console.Write("Are You a Loyality Member?(Yes/NO) ");
-            string isloyal = Console.ReadLine().ToLower();
+            string isloyal = Console.ReadLine().ToLower();  // convert any input to lower case so we can compare it easily later, without woryying if the user enter a capital letters or small letters
             double Discount = 0.15;
             double Dis_Amount = Discount * TotalBill;
+
+
             if (isloyal != "yes" || isloyal != "no")
             {
                 Console.WriteLine("Please answer with only yes/no.");

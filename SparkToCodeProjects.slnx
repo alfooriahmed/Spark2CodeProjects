@@ -1,6 +1,7 @@
 <Solution>
   <Project Path="C#session1/CsharpSession1.csproj" />
   <Project Path="ConsoleApp1/CsharpSession2.csproj" />
+  <Project Path="DayNameFinder/DayNameFinder.csproj" Id="7107e045-3c6d-4c08-b907-a33affc26b38" />
   <Project Path="Even_or_Odd/Even_or_Odd.csproj" Id="5f643f1a-0968-4a2a-9501-40ef83eabdd7" />
   <Project Path="GradeLetterLookup/GradeLetterLookup.csproj" Id="00167fce-bd0a-4d06-9980-c156c282e4d4" />
   <Project Path="Movie_Ticket_Pricing/Movie_Ticket_Pricing.csproj" Id="67e961b9-09cb-44ba-9996-fe405b6bdecb" />
