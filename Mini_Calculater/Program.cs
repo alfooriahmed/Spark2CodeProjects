@@ -12,6 +12,7 @@
            // Console.WriteLine(first_num + second_num);
 
             //Enter an operator
+            //f
             Console.Write("Please Enter an Operator: ");
             char Operator = char.Parse(Console.ReadLine());
            // Console.WriteLine(Operator);
