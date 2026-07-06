@@ -11,6 +11,7 @@
   <Project Path="PersonalCard/PersonalCard.csproj" />
   <Project Path="Rectangle_Calculator/Rectangle_Calculator.csproj" Id="ea59db0b-3ba6-4011-bd08-79be60ebeba2" />
   <Project Path="Restaurant_Bill/Restaurant_Bill.csproj" Id="13c68e2f-e218-45cb-bd88-8088ff8c0845" />
+  <Project Path="Sum_Numbers/Sum_Numbers.csproj" Id="6f74c9dd-a5e1-47a9-a7e5-e97e6caf9133" />
   <Project Path="Temperature_Converter/Temperature_Converter.csproj" Id="7d7120f2-04b7-43e7-a6a2-bb6bb65f65a7" />
   <Project Path="Voting_Eligibility/Voting_Eligibility.csproj" Id="148e4083-e086-4b8e-8b3a-c85df1d0eae7" />
 </Solution>
