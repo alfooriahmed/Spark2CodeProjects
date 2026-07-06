@@ -9,6 +9,7 @@
   <Project Path="Mini_Calculater/Mini_Calculater.csproj" Id="b4b90735-bcb8-49bb-b78c-d82e373489e1" />
   <Project Path="Movie_Ticket_Pricing/Movie_Ticket_Pricing.csproj" Id="67e961b9-09cb-44ba-9996-fe405b6bdecb" />
   <Project Path="Multiplication_Table/Multiplication_Table.csproj" Id="5014e478-5bbe-4b31-8a4e-8e56a7142c80" />
+  <Project Path="Password_Retry/Password_Retry.csproj" Id="be374090-6aa1-47ee-9a50-384910cfbb31" />
   <Project Path="PersonalCard/PersonalCard.csproj" />
   <Project Path="Rectangle_Calculator/Rectangle_Calculator.csproj" Id="ea59db0b-3ba6-4011-bd08-79be60ebeba2" />
   <Project Path="Restaurant_Bill/Restaurant_Bill.csproj" Id="13c68e2f-e218-45cb-bd88-8088ff8c0845" />
