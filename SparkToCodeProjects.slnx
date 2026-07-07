@@ -13,6 +13,7 @@
   <Project Path="Password_Retry/Password_Retry.csproj" Id="be374090-6aa1-47ee-9a50-384910cfbb31" />
   <Project Path="PersonalCard/PersonalCard.csproj" />
   <Project Path="Rectangle_Calculator/Rectangle_Calculator.csproj" Id="ea59db0b-3ba6-4011-bd08-79be60ebeba2" />
+  <Project Path="Repeating_Menu/Repeating_Menu.csproj" Id="3ee429d0-92e0-4b3a-b30e-b8dba5172383" />
   <Project Path="Restaurant_Bill/Restaurant_Bill.csproj" Id="13c68e2f-e218-45cb-bd88-8088ff8c0845" />
   <Project Path="Safe_Division_Calculator/Safe_Division_Calculator.csproj" Id="b91d770a-e1eb-4fab-93ff-989a6708117c" />
   <Project Path="Sum_Numbers/Sum_Numbers.csproj" Id="6f74c9dd-a5e1-47a9-a7e5-e97e6caf9133" />
