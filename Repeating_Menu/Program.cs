@@ -14,39 +14,47 @@
             num = int.Parse(Console.ReadLine());
             //Console.Write(num);
 
-            while (num != 3)
+            try
             {
-                /* 
-                Console.WriteLine("Please choose a number: ");
-                Console.WriteLine("1) hello");
-                Console.WriteLine("2) Good evening");
-                Console.WriteLine("3) Exist"); 
-                
-                 */
-                switch (num)
+                while (num != 3)
                 {
-                    case 1:
-                        Console.WriteLine("Hello!");
-                        break;
+                    /* 
+                    Console.WriteLine("Please choose a number: ");
+                    Console.WriteLine("1) hello");
+                    Console.WriteLine("2) Good evening");
+                    Console.WriteLine("3) Exist"); 
+
+                     */
+                    switch (num)
+                    {
+                        case 1:
+                            Console.WriteLine("Hello!");
+                            break;
 
 
-                    case 2:
-                        Console.WriteLine("Good Evening!");
-                        break;
+                        case 2:
+                            Console.WriteLine("Good Evening!");
+                            break;
 
-                    case 3:
-                        Console.WriteLine("Exist");
-                        break;
+                        case 3:
+                            Console.WriteLine("Exist");
+                            break;
+
+                    }
+                    Console.WriteLine("Please choose again: ");
+                    Console.WriteLine("1) hello");
+                    Console.WriteLine("2) Good evening");
+                    Console.WriteLine("3) Exist");
+
+                    //Console.Write("Please Enter the Correct Num: ");
+                    num = int.Parse(Console.ReadLine());
 
                 }
-                Console.WriteLine("Please choose again: ");
-                Console.WriteLine("1) hello");
-                Console.WriteLine("2) Good evening");
-                Console.WriteLine("3) Exist");
+            }
 
-                //Console.Write("Please Enter the Correct Num: ");
-                num = int.Parse(Console.ReadLine());
-
+            catch (FormatException)
+            {
+                Console.WriteLine("You Enter a not valid integer. Please enter numbers only.");
             }
 
 
